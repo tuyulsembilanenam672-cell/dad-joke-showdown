@@ -1,0 +1,11 @@
+{
+  "name": "dad-joke-showdown",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "One dad joke, written to /output/entry.txt, for make.fun's Dad Joke Showdown bounty.",
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "license": "MIT"
+}
